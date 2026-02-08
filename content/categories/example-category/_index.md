@@ -1,6 +1,6 @@
 ---
-title: Example Category
-description: A description of this category
+title: 测试
+description: 类型测试
 image:
 
 # Badge style
