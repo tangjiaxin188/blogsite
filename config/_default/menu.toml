@@ -15,3 +15,18 @@
     [social.params]
         icon = "brand-github"
 
+[[social]]
+    identifier = "email"
+    name       = "Email"
+    url        = "send@email.tangjiaxin.top"
+
+    [social.params]
+        icon = "mail"
+
+[[social]]
+    identifier = "bilibili"
+    name       = "bilibili"
+    url        = "https://space.bilibili.com/1308291832"
+
+    [social.params]
+        icon = "bilibili"
